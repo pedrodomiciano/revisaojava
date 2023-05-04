@@ -1,0 +1,24 @@
+.janelinha
+{
+    width: 300px;
+    height: 200px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 50%;
+    top: 50vh;
+    margin-top: -100px;
+    margin-left: -150px;
+    display: none;
+    border: solid 1px black;
+}
+
+#fecha {
+    cursor: pointer;
+    
+}
+.com 
+{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
